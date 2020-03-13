@@ -2,7 +2,7 @@
 
 - Logistic Regression Baseline : [Colab Link](https://colab.research.google.com/drive/1txnLTaGDHw_qMpieUdDfsX0gbniFgXkv)
 
-## Report structure (provisional)
+## Report: progress & provisional structure
 
 * Abstract -- done (v1)
 * Introduction -- done (v1)

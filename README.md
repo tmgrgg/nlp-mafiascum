@@ -10,5 +10,6 @@
 * Methods
 * Experiments
 * Results and discussion
-* Conclusion and future work
+* Applications and future work
+* Conclusion
 * References

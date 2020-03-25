@@ -1,2 +1,8 @@
 
 .DS_Store
+*.aux
+*.aux
+*.bib
+*.dvi
+*.log
+*.synctex

@@ -1,5 +1,9 @@
 # NLP Mafiascum
 
+
+If interested, please watch the video:  https://www.youtube.com/watch?v=CwUVc9yEF58
+
+
 ## Report: progress & provisional structure
 
 * Abstract -- done (v1)
